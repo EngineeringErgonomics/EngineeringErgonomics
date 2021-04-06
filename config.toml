@@ -7,7 +7,6 @@ theme = "paperesque"
 description = "Easy to swallow data science"
 favicon = "#"
 rss = false
-google_tag_manager = "GTM-MN2VJCZ"
 socialShare = true
 wordCount = true
 
