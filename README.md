@@ -24,7 +24,7 @@
     </td> -->
     <td align="center" width="96">
       <a href="#datablets">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg" width="48" height="48" alt="Jupyter Notebook" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" width="48" height="48" alt="Jupyter Notebook" />
       </a>
       <br>Jupyter Notebook
     </td>
@@ -39,6 +39,18 @@
         <img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
+    </td>
+    <td align="center"  width="96">
+      <a href="#datablets">
+        <img src="https://cdnlogo.com/logos/f/30/flutter.svg" width="48" height="48" alt="Flutter" />
+      </a>
+      <br>Flutter
+    </td>
+        <td align="center"  width="96">
+      <a href="#datablets">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" width="48" height="48" alt="Dart" />
+      </a>
+      <br>Dart
     </td>
 <!--     <td align="center" width="96">
       <a href="#datablets" >
@@ -72,18 +84,6 @@
       </a>
       <br>Kubernetes
     </td> -->
-    <td align="center"  width="96">
-      <a href="#datablets">
-        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
-      </a>
-      <br>Debian
-    </td>
-    <td align="center"  width="96">
-      <a href="#datablets">
-        <img src="https://cdnlogo.com/logos/f/30/flutter.svg" width="48" height="48" alt="Flutter" />
-      </a>
-      <br>Flutter
-    </td>
     <td align="center" width="96">
       <a href="#datablets">
         <img src="https://www.jsmtech.org/media/92/zsh.png" width="48" height="48" alt="Z Shell" />
@@ -102,12 +102,12 @@
       </a>
       <br>Scikit-learn
     </td>
-    <td align="center" width="96">
+<!--     <td align="center" width="96">
       <a href="#datablets" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" width="48" height="48" alt="TensorFlow" />
       </a>
       <br>TensorFlow
-    </td>
+    </td> -->
     <td align="center" width="96">
       <a href="#datablets" >
         <img src="https://gblobscdn.gitbook.com/spaces%2F-Lqya5RvLedGEWPhtkjU%2Favatar.png" width="48" height="48" alt="Weights & Biases" />
