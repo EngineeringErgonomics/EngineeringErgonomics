@@ -98,7 +98,7 @@
     </td>
     <td align="center" width="96">
       <a href="#datablets" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="Scikit-learn" />
+        <img src="./img/sklearn-sq.png" width="48" height="48" alt="Scikit-learn" />
       </a>
       <br>Scikit-learn
     </td>
