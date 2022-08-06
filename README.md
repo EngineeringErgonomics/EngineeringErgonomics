@@ -36,11 +36,11 @@
       <a href="#datablets">
         <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
       </a>
-      <br>TypeScript
+      <br>Rust
     </td> -->
     <td align="center" width="96">
       <a href="#datablets">
-        <img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/121px-Rust_programming_language_black_logo.svg.png" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
     </td>
