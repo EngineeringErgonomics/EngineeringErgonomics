@@ -1,10 +1,8 @@
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=datablets&title_color=d7b037&icon_color=2F855A&text_color=2b9c8e&custom_title=My%207-Day%20Stats&layout=compact&bg_color=ffffff?)
 
-<!-- <figure><embed src="https://wakatime.com/share/@datablets/b7dae1e2-24a4-4d95-a21d-679c79db7894.svg"></embed></figure>
-
-<figure><embed src="https://wakatime.com/share/@datablets/89c4b865-4aaf-48df-8d80-74e3ef123bd5.svg"></embed></figure> -->
-
-<figure><embed src="https://wakatime.com/share/@datablets/4318d9d7-3704-4370-b038-fe4cf523fa9b.svg"></embed></figure>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@datablets/fcd20028-58a2-417b-9fa4-fbdeb6672427.png" /></a>
+    
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@datablets/c9bb60f7-7f19-489b-bf76-0c338e8a286f.png" /></a>
 
 <h2 align="left" id="datablets">🛠️ Toolbelt</h2>
 
