@@ -1,7 +1,5 @@
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@datablets/fcd20028-58a2-417b-9fa4-fbdeb6672427.png" /></a>
-    
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@datablets/c9bb60f7-7f19-489b-bf76-0c338e8a286f.png" /></a>
-
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@datablets/80fe5396-8c3e-43c9-bc8b-1171496816f4.png" /></a>    
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@datablets/5b030d50-ed39-41d2-84be-cd8dba1cb20d.png" /></a>
 <h2 align="left" id="datablets">🛠️ Toolbelt</h2>
 
 <table>
