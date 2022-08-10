@@ -1,5 +1,6 @@
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@datablets/80fe5396-8c3e-43c9-bc8b-1171496816f4.png" /></a>    
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@datablets/83ebf7bb-cfcb-4f32-9980-5ea3d537b306.png" /></a>
+[![datablets' wakatime stats](https://github-readme-stats-gilt-three-29.vercel.app/api/wakatime?username=datablets&layout=compact&theme=noctis_minimus)](https://github.com/datablets/github-readme-stats)
+
+
 
 
 <h2 align="left" id="datablets">🛠️ Toolbelt</h2>
