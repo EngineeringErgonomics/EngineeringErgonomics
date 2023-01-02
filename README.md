@@ -1,7 +1,4 @@
-[![datablets' wakatime stats](https://github-readme-stats-gilt-three-29.vercel.app/api/wakatime?username=datablets&layout=compact&theme=noctis_minimus)](https://github.com/datablets/github-readme-stats)
-
-
-<h2 align="left" id="datablets">🛠️ Coding Activity in Production Repos</h2>
+<h2 align="left" id="datablets">👨‍💻 Coding Activity in Production Repos</h2>
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@datablets/2c23ccae-da6a-41af-b93e-c3be6e84d390.png" /></a>
 
 
