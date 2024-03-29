@@ -1,6 +1,8 @@
 <h2 align="left" id="datablets">👨‍💻 Coding Activity in Production Repos</h2>
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@datablets/2c23ccae-da6a-41af-b93e-c3be6e84d390.png" /></a>
 
+<h2 align="left" id="datablets">⌨️ Languages used in the last 12 months</h2>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@datablets/f5053855-f7af-420c-a85b-c5c7b566d7ee.png" /></a>
 
 <h2 align="left" id="datablets">🛠️ Toolbelt</h2>
 
